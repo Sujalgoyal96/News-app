@@ -1,0 +1,16 @@
+.categories{
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    margin: 20px;
+    margin-left: 0px;
+}
+
+
+.newsimg{
+    width:auto;
+    height:150px;
+}
+.activecategory:hover{
+    color:red;
+}
